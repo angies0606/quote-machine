@@ -1,0 +1,52 @@
+[
+  {
+    "id": "id1234",
+    "author": "Leonardo da Vinci",
+    "text": "I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do."
+  },
+  {
+    "id": "id4567",
+    "author": "Albert Einstein",
+    "text": "A person who never made a mistake never tried anything new."
+  },
+  {
+    "id": "id7890",
+    "author": "Chinese Proverb",
+    "text": "The person who says it cannot be done should not interrupt the person who is doing it."
+  },
+  {
+    "id": "id8901",
+    "author": "Benjamin Franklin",
+    "text": "Either write something worth reading or do something worth writing."
+  },
+  {
+    "id": "id1111",
+    "author": "Walt Disney",
+    "text": "The way to get started is to quit talking and begin doing."
+  },
+  {
+    "id": "id2222",
+    "author": "Steve Jobs",
+    "text": "Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking."
+  },
+  {
+    "id": "id3333",
+    "author": "Oscar Wilde",
+    "text": "Life is never fair, and perhaps it is a good thing for most of us that it is not."
+  },
+  {
+    "id": "id4444",
+    "author": "Thomas A. Edison",
+    "text": "Many of life's failures are people who did not realize how close they were to success when they gave up"
+  },
+  {
+    "id": "id5555",
+    "author": "Ray Bradbury",
+    "text": "Life is trying things to see if they work"
+  },
+  {
+    "id": "id6666",
+    "author": "Mother Teresa",
+    "text": "I alone cannot change the world, but I can cast a stone across the water to create many ripples."
+  }
+]
